@@ -1,4 +1,4 @@
 test-repo
 =========
 
-simply for testing
+simply for testing how github works
